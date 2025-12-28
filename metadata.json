@@ -1,0 +1,6 @@
+{
+  "name": "Bytebeat MIDI 转换器",
+  "description": "一个高级 Web 应用，可将 MIDI 文件转换为 Bytebeat 表达式，支持可视化编辑、实时预览和参数自定义。由 yunchenqwq 开发。",
+  "author": "yunchenqwq",
+  "requestFramePermissions": []
+}
