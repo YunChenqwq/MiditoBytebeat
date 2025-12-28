@@ -3,7 +3,9 @@ Midi一键转bytebeat：
 还在为一大串公式发愁吗，还在对一大串三目运算符叹气吗
 访问这个网站https://miditobytebeat.vercel.app
 一键生成midi的bytebeat，支持移调，剪辑各种功能！
-注意：1只支持单轨mid，多轨会无法上传。请在https://www.aigei.com/music/midi或者midshow搜索调教用或者单轨等字样找到自己想要的midi。找不到你就自己随便找个网页版的midi编辑器一写就可以了。不会音乐就去找别人教你
+注意：1只支持单轨mid，多轨会无法上传。请在
+https://www.aigei.com/music/midi
+或者midshow搜索调教用或者单轨等字样找到自己想要的midi。找不到你就自己随便找个网页版的midi编辑器一写就可以了。不会音乐就去找别人教你
 我的音乐为什么没播放完就重新循环了？
 答：更改周期上限为更大的数值
 我的音乐节奏不对？
